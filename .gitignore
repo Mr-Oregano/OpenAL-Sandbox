@@ -1,0 +1,12 @@
+# Output files
+**/bin-int
+**/bin
+
+# Visual Studio project files
+*.vs
+*.sln
+*.vcxproj
+*.filters
+*.user
+
+build.bat

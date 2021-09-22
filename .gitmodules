@@ -1,0 +1,3 @@
+[submodule "vendor/openal-soft"]
+	path = vendor/openal-soft
+	url = https://github.com/Sexy-Spice/openal-soft.git
